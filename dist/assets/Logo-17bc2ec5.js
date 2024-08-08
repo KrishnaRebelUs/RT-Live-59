@@ -1,0 +1,1 @@
+import{L as o,j as s}from"./index-6b0a12f1.js";import{s as t}from"./Box-fd20700d.js";const e="/assets/Logo13-2729a5ea.png",i=t(o)(()=>({width:"90px",overflow:"hidden",display:"block"})),l=()=>s.jsx(i,{to:"/",style:{display:"flex",alignItems:"center"},children:s.jsx("img",{src:e,alt:"Logo",style:{width:"100%"}})});export{l as L};
